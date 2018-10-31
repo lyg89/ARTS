@@ -1,6 +1,6 @@
 # ARTS Week 01
 ## Alogrithm
-### 1. Two Sum
+### 1. Two Sum(java)
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
