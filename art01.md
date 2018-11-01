@@ -1,4 +1,4 @@
-# ARTS Week 01
+# ARTS Week 01 -抓住十月的尾巴
 ## Alogrithm
 ### 1. Two Sum(java)
 
