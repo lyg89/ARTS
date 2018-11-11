@@ -1,5 +1,5 @@
 # ARTS Week 01 -抓住十月的尾巴
-## Alogrithm
+## Algorithm
 ### 1. Two Sum(java)
 
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
