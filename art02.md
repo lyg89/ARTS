@@ -114,8 +114,6 @@ class ListNode {
 
 另外，还有一个Message部分，新标准成其包含消息的TAG、MSG，TAG属于header中的一部分，不是单个属性，而是分隔成了APP-NAME, PROCID和MSGID。流行的Rsyslog工具符合了这个新的标准。
 
-一个Syslog消息示例：
-
 一个关于Syslog的入门简单介绍视频：
    https://www.youtube.com/watch?v=2jDYd5RkAl8
 
