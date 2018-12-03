@@ -109,7 +109,7 @@ class ListNode {
 1. 组成部分
 [Syslog](https://en.wikipedia.org/wiki/Syslog)消息的发送端提供设备编码和严重性级别，在将消息传递到接收器之前，Syslog软件会将一些额外的信息添加到消息头当中，主要包括发送端进程id、时间戳以及设备的主机名或ip地址。可用设备类型、日志安全级别分别对应一个标准列表。在不同的操作系统和syslog实现中，设备的code与关键字有可能不一致。
 
-日志安全级别中，除了Emergency和Debug级别外，都与应用程序有关，根据不同的应用场景设定。
+日志安全级别中，除了Emergency和Debug级别外，其余都与应用程序有关，根据不同的应用场景设定。
 
 另外，还有一个Message部分，新标准成其包含消息的TAG、MSG，TAG属于header中的一部分，不是单个属性，而是分隔成了APP-NAME, PROCID和MSGID。流行的Rsyslog工具符合了这个新的标准。
 
