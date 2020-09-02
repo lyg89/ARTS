@@ -1,3 +1,5 @@
+![friends](./hannah-rodrigo-mf_3yZnC6ug-unsplash.jpg)
+
 >ARTS：Algorithm、Review、Tip、Share
 >- Algorithm 算法题
 >- Review 英文文章
